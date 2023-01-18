@@ -3,6 +3,10 @@ hero-s-power-contract
 
 Based on "The Hollywood Approach" by Kristina Paider (https://www.amazon.com/Hollywood-Approach-Script-Movie-Wildest/dp/1989603556)
 
+Based on "Don’t Just Set Goals. Build Systems - The Secret To Happiness And Achieving More" at https://medium.com/swlh/dont-just-set-goals-build-systems-8158ac541df
+
+Based on "The secret ingredient to telling a good story" at https://docseuss.medium.com/the-secret-ingredient-to-telling-a-good-story-31497a020de4
+
 ## Hero's Power Contract
 
 I, *Willem van Heemstra*, am fearlessly examining the ways in which I can call forth my inner hero.
