@@ -7,7 +7,7 @@ Based on "The Hollywood Approach" by Kristina Paider (https://www.amazon.com/Hol
 
 I, *Willem van Heemstra*, am fearlessly examining the ways in which I can call forth my inner hero.
 
-I now make a sacred pact to accept myself as **[a powerful creator of my life]()** and to move toward and live out my next **wildest dream**.
+I now make a sacred pact to accept myself as **[a powerful creator of my life](./100/README.md)** and to move toward and live out my next **wildest dream**.
 
 I understand that growth requires moving through new, possibly uncomforatble things.
 
