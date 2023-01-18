@@ -13,7 +13,7 @@ I, *Willem van Heemstra*, am fearlessly examining the ways in which I can call f
 
 I now make a sacred pact to accept myself as **[a powerful creator of my life](./100/README.md)** and to move toward and live out my next **[wildest dream](./200/README.md)**.
 
-I understand that growth requires moving through new, possibly uncomforatble things.
+I understand that growth requires moving through new, possibly uncomfortable things.
 
 I get that I may have to expand my boundaries.
 
